@@ -1,0 +1,11 @@
+body {
+
+    background-color: white;
+  }
+
+.jumbotron {
+    background-image: url("./cdc-QEU-QgIOJKA-unsplash.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+  }
